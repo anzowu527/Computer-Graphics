@@ -1,11 +1,11 @@
 # Computer Graphic Project: Reproduce Flight Path
-<img src="https://github.com/anzowu527/Computer-Graphics/assets/77874807/97883e47-8fe9-4639-8169-70830b83582e" width="500">
+<img src="https://github.com/anzowu527/Computer-Graphics/assets/77874807/97883e47-8fe9-4639-8169-70830b83582e" width="450">
 
-<img src="https://github.com/anzowu527/Computer-Graphics/assets/77874807/391b00f1-7afb-40ca-b80a-d89495e99cf4" width="500" height='290'>
+<img src="https://github.com/anzowu527/Computer-Graphics/assets/77874807/391b00f1-7afb-40ca-b80a-d89495e99cf4" width="450" height='290'>
 
-<img src="https://github.com/anzowu527/Computer-Graphics/assets/77874807/4b175aaa-d2e9-4bf0-bf40-b6f0ede4dd7a" width="500">
+<img src="https://github.com/anzowu527/Computer-Graphics/assets/77874807/4b175aaa-d2e9-4bf0-bf40-b6f0ede4dd7a" width="450">
 
-<img src="https://github.com/anzowu527/Computer-Graphics/assets/77874807/e4220dd6-deef-40aa-8206-6e4de644a8c0" width="500">
+<img src="https://github.com/anzowu527/Computer-Graphics/assets/77874807/e4220dd6-deef-40aa-8206-6e4de644a8c0" width="450">
 
 - We were provided with several video clips of airplane scenes from the course, from which we were to select one to recreate using Blender.
 - I selected a clip featuring an airplane accelerating along a runway before taking off at a steep angle, nearly vertical, and executing a 360-degree rotation. The aircraft then performed various aerial maneuvers between takeoff and landing phases. Unfortunately, I can no longer locate the original video, but my description closely captures its content.
